@@ -1,0 +1,8 @@
+{
+  "name": "Zentyq - Elite Software Development Agency",
+  "description": "Zentyq is a premium software development agency specializing in custom web apps, mobile solutions, AI integration, and enterprise software.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
